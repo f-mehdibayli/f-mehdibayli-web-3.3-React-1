@@ -1,0 +1,16 @@
+.experience-info{
+    max-width: 800px;
+    margin:0 auto;
+    background-color: chocolate;
+    margin-top: 20px;
+    border-radius: 10px;
+    border:1px solid black;
+}
+.experience-info-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.experience-info-item span:nth-child(1){
+    font-weight: bold;
+}
