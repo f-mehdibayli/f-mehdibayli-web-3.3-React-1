@@ -13,4 +13,5 @@
 }
 .experience-info-item span:nth-child(1){
     font-weight: bold;
+    background-color: black;
 }
