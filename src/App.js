@@ -1,19 +1,14 @@
 import UserCV from './component/UserCV';
 import './App.css';
 
-
-function App(probs) {
+function App() {
   return (
-   <div className='container'>
+    <div className="App">
       <div>
-          <h1>My CV</h1>
           <UserCV/>
       </div>
-      
-   </div>
+    </div>
   );
 }
-
-
 
 export default App;

@@ -1,16 +1,24 @@
 .personal-info{
     width: 800px;
     margin:0 auto;
-    background-color: aqua;
+    background-color: lightseagreen;
     margin-top: 20px;
     border-radius: 10px;
     border:1px solid black;
+}
+.personal-info div:nth-child(1){
+    border-bottom: 1px solid black;
+    padding: 20px;
 }
 .personal-info-item{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    border-bottom: 1px solid black;
 }
 .personal-info-item span:nth-child(1){
     font-weight: bold;
+}
+.personal-info div:nth-child(4){
+    border-bottom: none;
 }

@@ -7,7 +7,7 @@ import Contacs from '../Contacts';
 function UserCV () {
     return (
         <div>
-            <h1>User CV Komponent</h1>
+            <h1>USER CV KOMPONENT</h1>
             <PersonalInfo/>
             <Experience/>
             <Contacs/> 

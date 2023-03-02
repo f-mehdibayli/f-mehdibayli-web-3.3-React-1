@@ -1,0 +1,21 @@
+.contacts-info{
+    width: 800px;
+    background-color: lightgoldenrodyellow;
+    margin:0 auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.contacts-info h1{
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+.contacts-info-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.contacts-info div:nth-child(2){
+    border-bottom: 1px solid black;
+}
